@@ -1,0 +1,259 @@
+#body {
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar {
+    background-color: rgb(204, 204, 204);
+}
+
+.header {
+    background-color: rgb(246, 246, 246);
+    margin-bottom: 50px;
+}
+
+.div {
+    background-color: rgb(255, 255, 255);
+    height: 5vh;
+}
+
+#dataset {
+    display: flex;
+    width: 100%;
+    background-image: url("un2.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+
+}
+
+.data {
+    color: rgb(93, 89, 89);
+    margin: 70px 620px 0px 0px;
+    text-align: center;
+    width: 80%;
+    top: 0;
+    left: 0;
+    height: 30vh;
+}
+
+.cvimg {
+    width: 200px;
+    height: 300px;
+    border-radius: 10%;
+    margin: -15px 0px 0px 350px;
+}
+
+.header h1 {
+    margin: auto;
+    padding-bottom: 0;
+    font-weight: 1000;
+}
+
+.header h4 {
+    margin-bottom: 0;
+    padding-top: 0;
+}
+
+.header p {
+    margin-top: 0;
+}
+
+.info {
+    margin: -50px 0px 0px 100px;
+    height: 35vh;
+    display: flex;
+    width: 35%;
+    position: relative;
+    top: 0;
+    background-image: url(teacher.gif);
+    background-position: top -10px right -150px;
+    background-size: cover;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 50px;
+    justify-content: space-between;
+    background-color: rgb(222, 222, 222);
+}
+
+.img2 {
+    height: 30vh;
+    width: 400px;
+    border-radius: 50px;
+    margin: 20px 0px 0px 300px;
+}
+
+.info ul li {
+    text-decoration: none;
+    list-style: none;
+    margin: 1%;
+}
+
+#text {
+    padding: 50px 0px 0px 0px;
+    width: 70%;
+}
+
+#text h2 {
+    text-align: center;
+    font-weight: none;
+    margin: -20px 0px 10px 20px;
+}
+
+
+.qualification {
+    display: flex;
+    width: 30%;
+    border-radius: 50px;
+    background-image: url(./soft\ skiils.png);
+    background-position: top -10px left 130px;
+    background-color: rgb(222, 222, 222);
+    background-size: cover;
+    position: relative;
+    left: 952px;
+    margin-top: -9px;
+}
+
+.qualification ul li {
+    text-decoration: none;
+    list-style: none;
+    margin: 1%;
+}
+
+#qualification {
+    margin: auto;
+    margin-top: 30px;
+    margin-left: 100px;
+    height: 24vh;
+    width: 40%;
+}
+
+
+
+
+.cvimg img {
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    border: 5px solid rgb(69, 69, 69);
+    filter: drop-shadow(2px 10px 20px rgb(0, 0, 0));
+    border-radius: 100%;
+    margin: 60px 0px 0px -200px;
+}
+
+
+
+
+
+.seperator {
+    text-align: center;
+}
+
+.seperator {
+    height: 1vh;
+    margin: -8px 0px 0px 140px;
+    width: 81%;
+    background-color: rgb(222, 222, 222);
+}
+
+.skill {
+    width: 37%;
+    height: 35vh;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    background-image: url(./skills.png);
+    position: relative;
+    background-position: top 20px left 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border: 1px solid rgb(204, 204, 204);
+    margin: -8.7px 0px 0px 100px;
+}
+
+.skill-img {
+    margin: 20px 0px 0px 300px;
+}
+
+.img1 {
+    height: 30vh;
+    width: 60px;
+}
+
+.btn {
+    height: 30vh;
+    width: 300px;
+    border-radius: 50px;
+    margin: 0px 0px 0px 50px;
+}
+
+.btn2 {
+    height: 25vh;
+    width: 400px;
+    border-radius: 50px;
+    margin: 50px 0px 0px 0px;
+}
+
+.skill h2 {
+    margin: 0px 0px 30px 50px;
+    position: relative;
+    top: 20px;
+    bottom: 20px;
+}
+
+.skill ul li {
+    text-decoration: none;
+    list-style: none;
+    margin: 1%;
+    width: 50%;
+}
+
+#skill {
+    margin: 70px 0px 0px -150px;
+    width: 60%;
+    display: flex;
+}
+
+.projects {
+    width: 45%;
+    height: 45vh;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    border: 1px solid rgb(204, 204, 204);
+    background-image: url(./projects.gif);
+    background-position: top 0px right 190px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    left: 722px;
+    margin-top: -9px;
+}
+
+.projects h2 {
+    margin: 20px 0px 10px 450px;
+    /* position: relative;
+    top: 20px; */
+}
+
+#projects {
+    width: 40%;
+    margin: 0px 0px 0px 400px;
+    position: relative;
+    top: 30px;
+
+}
+
+.projects li {
+    margin: 1%;
+}
+
+.copyright {
+    height: 5vh;
+    width: 80%;
+    background-color: rgb(222, 222, 222);
+    margin: 50px auto;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.copyright p {
+    padding-top: 9px;
+}
